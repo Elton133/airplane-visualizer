@@ -1,0 +1,11 @@
+c17.glb — "C-17A Globemaster III" by VTX
+Source: https://sketchfab.com/3d-models/c-17a-globemaster-iii-472c12abe72f435a95f9b54f4c469e29
+Licence: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Modified for HANGAR: unused data pruned, textures re-encoded as WebP, geometry
+compressed with meshopt. At runtime the model is reoriented, rescaled to the
+published length and given procedural landing gear.
+
+This modified model is distributed under the same licence (CC BY-NC-SA 4.0).
+Non-commercial use only.
